@@ -1,0 +1,8 @@
+P = int(input('Digite o valor do primeiro termo P: '))
+R = int(input('Digite o valor da razão R: '))
+Q = int(input('Digite a quantidade de termos Q: '))
+ultimo = P + R * (Q - 1)
+L = list(range(P, ultimo+1, R))
+print('\nLista gerada com range:')
+print(L)
+print('\nFim do programa.')
