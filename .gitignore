@@ -1,2 +1,6 @@
 node_modules/
 .DS_store
+
+# Ignorar arquivos
+certificado-python-basico-huawei-banin.pdf
+python_basico.pdf
